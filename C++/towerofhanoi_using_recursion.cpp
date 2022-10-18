@@ -17,6 +17,6 @@ int main()
 {
 	int N;
     cin>>N;
-	towerOfHanoi(N, 'A', 'C', 'B');
+	towerOfHanoi('N', 'A', 'C', 'B');
 	return 0;
 }
